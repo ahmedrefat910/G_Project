@@ -1,0 +1,24 @@
+/* Start Home */
+.H-Page {
+    height: 100vh;
+}
+
+.corrupted-image {
+    text-align: center;
+    padding: 120px 150px 40px;
+    cursor: pointer;
+    position: relative;
+    top: 100px;
+}
+
+.links a {
+    text-decoration: none;
+    position: relative;
+    left: 46%;
+    top: 100px;
+    color: #07beac;
+    font-size: 37px;
+    font-weight: 600;
+}
+
+/* End Home */

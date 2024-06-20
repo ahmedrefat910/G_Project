@@ -1,0 +1,85 @@
+/* Start Choose */
+.text-choose {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.text-choose p {
+    color: rgb(161, 158, 158);
+}
+
+.T-choose {
+    color: #07beac;
+    padding-bottom: 2px;
+}
+
+.doc-c {
+    text-align: center;
+    position: fixed;
+    left: 39%;
+    top: 42%;
+}
+
+.user-c {
+    text-align: center;
+    position: fixed;
+    right: 46%;
+    top: 41%;
+}
+
+.guest-c {
+    text-align: center;
+    position: fixed;
+    right: 35%;
+    top: 41%;
+}
+
+.doc-butt {
+    background-color: #07beac;
+    border: none;
+    color: white;
+    padding: 4px 21px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 45px;
+    position: relative;
+    left: 38.5%;
+    top: 300px;
+}
+
+.user-butt {
+    background-color: #07beac;
+    border: none;
+    color: white;
+    padding: 4px 23px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 40px;
+    position: relative;
+    left: 44.25%;
+    top: 300px;
+}
+
+.guest-butt {
+    background-color: #07beac;
+    border: none;
+    color: white;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 40px;
+    position: relative;
+    left: 50.5%;
+    top: 300px;
+}
+
+/* End Choose */
